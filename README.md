@@ -1,4 +1,4 @@
-# Predicting Alumni Giving Rates at National Universities ( Mini Project )
+# Predicting Alumni Giving Rates at National Universities( Mini Project )
 
 ---
 
